@@ -1,5 +1,5 @@
 # x-surface
-### The x-surface is an e eTextile sensors mat used to sense the steps and simulate sound textures under your feets
+### The x-surface is an eTextile sensors mat used to sense the steps and simulate sound textures under your feets
 This project is still in a beta phase, where drastic changes may occur and backwards compatibility is not guaranteed until the final release.
 
 ![x-surface](https://live.staticflickr.com/5722/30780469262_e84a58a8a9_z_d.jpg)
