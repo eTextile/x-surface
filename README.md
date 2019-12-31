@@ -5,7 +5,7 @@ This project is still in a beta phase, where drastic changes may occur and backw
 ![x-surface](https://live.staticflickr.com/5722/30780469262_e84a58a8a9_z_d.jpg)
 
 ## About The project
-the x-surface is an eTextile sensors mat used to sens the steps and simulate sound textures under your feets.
+the x-surface is an eTextile sensor mat used to sens the steps and simulate sound textures under your feets.
 Walking on the leaves, walking on the snow, walking in the puddles, walking on, walking on the moon.
 This idea came from a series of interactives floor projects like the Giant keyboard made for people with disabilities, or the development of the Surface floor slabs used for events and shrooms. Made out of knitted structure this sensor include electrical textile switches matrix that resist against the stresses of the steps.
 
