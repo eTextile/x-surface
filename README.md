@@ -10,9 +10,9 @@ Walking on the leaves, walking on the snow, walking in the puddles, walking on, 
 This idea came from a series of interactives floor projects like the Giant keyboard made for people with disabilities, or the development of the Surface floor slabs used for events and shrooms. Made out of knitted structure this sensor include electrical textile switches matrix that resist against the stresses of the steps.
 
 ## Development tools & DOCs
-* **Web page:** [http://x-surface.eTextile.org/](http://surface.eTextile.org "Web page")
+* **Web page:** [http://surface.eTextile.org/](http://surface.eTextile.org "Web page")
 * **Repository:** [https://github.com/eTextile/x-surface/tree/master](https://github.com/eTextile/x-surface/tree/master "Project repository")
-* **License:** [CC-BY-SA](https://github.com/eTextile/x-surface/tree/Blob/LICENSE "E256 Matrix license")
+* **License:** [CC-BY-SA](https://github.com/eTextile/x-surface/tree/Blob/LICENSE "License")
 * **Mail:** [contact@etextile.org](mailto:contact@etextile.org "eMail")
 * **Pictures:** [flickr.com](https://www.flickr.com/photos/maurin/albums/72157625358921639 "Share your pictures with us")
 
